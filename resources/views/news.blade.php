@@ -39,6 +39,8 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+                <a href="{{route('home.index')}}">home</a>
+                <a href="{{route('about.index')}}">about</a>
             </div>
         </div>
     </body>
